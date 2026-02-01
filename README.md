@@ -1,2 +1,2 @@
-# apk-foto-aylak
+# apk-foto-caylak
 fot çaylak ın apk hali
